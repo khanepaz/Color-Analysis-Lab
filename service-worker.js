@@ -2,12 +2,12 @@ const CACHE_NAME = 'color-lab-cache-v1';
 const urlsToCache = [
     // فایل‌های اصلی
     '/',
-    '/index.html',
-    '/css/bootstrap.min.css',
-    '/css/style.css',
-    '/js/bootstrap.bundle.min.js',
-    '/js/culori.min.js',
-    '/manifest.json',
+    'index.html',
+    'css/bootstrap.min.css',
+    'css/style.css',
+    'js/bootstrap.bundle.min.js',
+    'js/culori.min.js',
+    'manifest.json',
 
     // آیکون‌ها
     'icon-192.png',
@@ -60,4 +60,5 @@ self.addEventListener('activate', event => {
       );
     })
   );
+
 });
