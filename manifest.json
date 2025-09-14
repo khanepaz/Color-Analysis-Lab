@@ -4,7 +4,7 @@
     "description": "ابزاری برای تحلیل و مقایسه رنگ‌ها در فضاهای رنگی CIELAB و RGB",
     "lang": "fa-IR",
     "dir": "rtl",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#f8f9fa",
     "theme_color": "#343a40",
@@ -22,4 +22,5 @@
         "purpose": "any maskable"
       }
     ]
+
   }
